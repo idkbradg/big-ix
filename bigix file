@@ -1,3 +1,8 @@
+bigix-originals-site/
+├── index.html          ✅ Main HTML file
+├── style.css           ✅ CSS file
+├── images/             ✅ Image assets
+└── everything else...
 <!DOCTYPE html>
 <html lang="en">
 <head>
